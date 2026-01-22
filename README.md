@@ -1,6 +1,6 @@
 # Coronavirus-disease-COVID-19-pandemic-Chicago-Jan2020-to-dec-2022-
 
-🦠 COVID-19 Pandemic Analysis & Data Visualization
+🦠 COVID-19 Pandemic Analysis & Data Visualization(TABLEAU,SQL,Advanced Excel)
 
 Chicago | January 2020 – December 2022
 
